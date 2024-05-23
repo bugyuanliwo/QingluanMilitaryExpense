@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"黑屏","order":11,"parentId":0,"scrollX":735,"scrollY":456.59999999999997},
 {"id":2,"expanded":false,"name":"小花园","order":7,"parentId":16,"scrollX":735,"scrollY":456.59999999999997},
-{"id":3,"expanded":true,"name":"城堡 1F","order":1,"parentId":0,"scrollX":1234.2,"scrollY":1131},
+{"id":3,"expanded":true,"name":"城堡 1F","order":1,"parentId":0,"scrollX":1008.5999999999999,"scrollY":1305},
 {"id":4,"expanded":true,"name":"城堡 2F","order":2,"parentId":3,"scrollX":1144.2,"scrollY":708.6},
 {"id":5,"expanded":true,"name":"城堡 3F","order":3,"parentId":4,"scrollX":994.1999999999999,"scrollY":1199.3999999999999},
 null,
@@ -14,7 +14,7 @@ null,
 null,
 {"id":13,"expanded":true,"name":"苍时家","order":5,"parentId":0,"scrollX":725.4,"scrollY":503.4},
 {"id":14,"expanded":true,"name":"明林家","order":9,"parentId":0,"scrollX":934.1999999999999,"scrollY":1429.8},
-{"id":15,"expanded":false,"name":"明林家二楼","order":10,"parentId":14,"scrollX":1194.6,"scrollY":447},
+{"id":15,"expanded":false,"name":"明林家二楼","order":10,"parentId":14,"scrollX":1194.6,"scrollY":911.4},
 {"id":16,"expanded":true,"name":"苍时的卧室","order":6,"parentId":13,"scrollX":735,"scrollY":456.59999999999997},
 {"id":17,"expanded":true,"name":"苍时的书房","order":8,"parentId":13,"scrollX":735,"scrollY":456.59999999999997}
 ]
