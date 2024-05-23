@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"黑屏","order":11,"parentId":0,"scrollX":735,"scrollY":456.59999999999997},
 {"id":2,"expanded":false,"name":"小花园","order":7,"parentId":16,"scrollX":735,"scrollY":456.59999999999997},
-{"id":3,"expanded":true,"name":"城堡 1F","order":1,"parentId":0,"scrollX":874.1999999999999,"scrollY":721.8},
+{"id":3,"expanded":true,"name":"城堡 1F","order":1,"parentId":0,"scrollX":874.1999999999999,"scrollY":934.1999999999999},
 {"id":4,"expanded":true,"name":"城堡 2F","order":2,"parentId":3,"scrollX":994.1999999999999,"scrollY":820.1999999999999},
 {"id":5,"expanded":true,"name":"城堡 3F","order":3,"parentId":4,"scrollX":979.8,"scrollY":1233},
 null,
