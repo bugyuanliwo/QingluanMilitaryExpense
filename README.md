@@ -24,8 +24,11 @@
 如果你打算直接动手修，感激不尽
 
 ## 代码
-你可以自由地下载并修改所有代码和图片制作成新的游戏，不需要告知或引用我，但制作完成后请给我发一份你的游戏
-
-本游戏使用RPG Maker MV制作，下载该软件后打开项目即可更改所有内容
+你可以自由地下载并修改所有代码和图片制作成新的游戏，不需要告知或引用我，但制作完成后请给我发一份你的游戏<br />
+本游戏使用RPG Maker MV制作，下载该软件后打开项目即可更改所有内容<br />
 
 ### 祝你有一个愉快的体验
+
+#### 部分地图资源来自
+- [PandaMaru](https://pandamaru.de/index.php/downloads/rpg-maker-mv/rpg-maker-mv-tilesets/)<br />
+- [Indrah](https://forums.rpgmakerweb.com/index.php?threads/indrahs-mv-tiles.46838/)<br />
