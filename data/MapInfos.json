@@ -13,7 +13,7 @@ null,
 null,
 null,
 {"id":13,"expanded":true,"name":"苍时家","order":5,"parentId":0,"scrollX":816.6666666666666,"scrollY":507.3333333333333},
-{"id":14,"expanded":true,"name":"明林家","order":9,"parentId":0,"scrollX":1114,"scrollY":635.3333333333334},
+{"id":14,"expanded":true,"name":"明林家","order":9,"parentId":0,"scrollX":806,"scrollY":614},
 {"id":15,"expanded":false,"name":"明林家二楼","order":10,"parentId":14,"scrollX":806,"scrollY":1423.3333333333333},
 {"id":16,"expanded":true,"name":"苍时的卧室","order":6,"parentId":13,"scrollX":816.6666666666666,"scrollY":507.3333333333333},
 {"id":17,"expanded":true,"name":"苍时的书房","order":8,"parentId":13,"scrollX":816.6666666666666,"scrollY":507.3333333333333}
