@@ -37,9 +37,7 @@ Window_Base.prototype.lineHeight = function() {
 };
 
 Window_Base.prototype.standardFontFace = function() {
-    if ($gameSystem.isChinese()) {
-        return 'SimHei, Heiti TC, sans-serif';
-    } else if ($gameSystem.isKorean()) {
+    if ($gameSystem.isKorean()) {
         return 'Dotum, AppleGothic, sans-serif';
     } else {
         return 'GameFont';
@@ -47,7 +45,7 @@ Window_Base.prototype.standardFontFace = function() {
 };
 
 Window_Base.prototype.standardFontSize = function() {
-    return 28;
+    return 24;
 };
 
 Window_Base.prototype.standardPadding = function() {
